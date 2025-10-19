@@ -1,5 +1,3 @@
-# 🧾 Project_tugasWeb1
-
 ## Identitas Mahasiswa
 **Nama:** Arika Azhar  
 **NPM:** 23552011408  
@@ -21,4 +19,5 @@ Tampilan terdiri dari **navbar (menu utama)** dan **konten utama** berisi sambut
 
 Berikut hasil tampilan halaman **WarungKu**:
 
-![Tampilan Website](screenshot.png)
+![Tampilan Website](<img width="1366" height="678" alt="Screenshot png" src="https://github.com/user-attachments/assets/f1dfdf3c-a1ea-483d-9cac-c1b984167379" />
+)
