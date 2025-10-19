@@ -8,7 +8,7 @@ Diajukan sebagai penyelesaian salah satu penugasan dari mata kuliah **Pemrograma
 
 ---
 
-## 🧠 Deskripsi Proyek
+## Deskripsi Proyek
 Proyek ini merupakan halaman web sederhana bertema **WarungKu**, yang dibuat menggunakan **HTML**, **CSS**, dan **Bootstrap 5**.  
 Tampilan terdiri dari **navbar (menu utama)** dan **konten utama** berisi sambutan serta tombol navigasi.
 
@@ -19,5 +19,4 @@ Tampilan terdiri dari **navbar (menu utama)** dan **konten utama** berisi sambut
 
 Berikut hasil tampilan halaman **WarungKu**:
 
-![Tampilan Website](<img width="1366" height="678" alt="Screenshot png" src="https://github.com/user-attachments/assets/f1dfdf3c-a1ea-483d-9cac-c1b984167379" />
-)
+<img width="1366" height="678" alt="Image" src="https://github.com/user-attachments/assets/da47cd92-9414-462c-aacb-011f064c3dd1" />
