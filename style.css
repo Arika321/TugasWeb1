@@ -1,0 +1,12 @@
+body {
+  background-color: #fffbe6;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #222;
+}
+
+.btn-warning {
+  font-weight: bold;
+}
