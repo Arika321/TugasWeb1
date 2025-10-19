@@ -14,8 +14,7 @@ Tampilan terdiri dari **navbar (menu utama)** dan **konten utama** berisi sambut
 
 ---
 
-## ⚙️ Struktur Folder
-## 🖼️ Tampilan Website
+## Tampilan
 
 Berikut hasil tampilan halaman **WarungKu**:
 
